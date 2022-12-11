@@ -40,7 +40,7 @@ public class BaseClass {
 	}
 	public void reportInit() {
 		report=new ExtentReports();
-		String path=System.getProperty("user.dir")+"C:/Users/User/eclipse-workspace/target/ExtentReport.html";
+		String path=System.getProperty("user.dir")+"/target/ExtentReport.html";
 		spark=new ExtentSparkReporter(path);
 		report.attachReporter(spark);
 	}
