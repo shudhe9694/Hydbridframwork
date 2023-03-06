@@ -28,5 +28,13 @@ public class Loginpage {
     	loginBtn.click();
     	return new Dashboardpage(driver);
     }
-    
+    public boolean Loginpagetitle() {
+    	String act=driver.getTitle();
+    	String exp="JavaByKiran | Log in";
+    	if(act.equals(exp)) {
+    		return true;
+    }else {
+		return false;
+    }
+    }
 }

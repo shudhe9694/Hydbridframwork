@@ -46,6 +46,7 @@ public class BaseClass {
 		Loginpage lp =new Loginpage(driver);
 		return lp;
 	
+	
 	}
 	
 }

@@ -10,7 +10,7 @@ import com.listeners.MyListener;
 import com.pages.Loginpage;
 @Listeners((MyListener.class))
 public class LoginTest extends BaseClass {
-  Loginpage lp=null;
+  Loginpage lp;
 	@BeforeSuite
 	public void setup() throws Exception{
 		initialization();
@@ -19,7 +19,7 @@ public class LoginTest extends BaseClass {
 	
 	@Test
 	public void test01() {
-Assert.assertEquals(driver.getTitle(), "JavaByKiran | Log in");
+Assert.assertTrue(lp.Loginpagetitle());
 	}
 	
 }

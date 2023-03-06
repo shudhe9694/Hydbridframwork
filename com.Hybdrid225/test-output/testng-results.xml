@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="690" started-at="2023-03-06T16:16:01Z" finished-at="2023-03-06T16:16:01Z">
+  <suite name="Suite" duration-ms="1847" started-at="2023-03-06T17:49:33Z" finished-at="2023-03-06T17:49:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="690" started-at="2023-03-06T16:16:01Z" finished-at="2023-03-06T16:16:01Z">
+    <test name="Test" duration-ms="1847" started-at="2023-03-06T17:49:33Z" finished-at="2023-03-06T17:49:35Z">
       <class name="com.tests.Dashboardpgtest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Dashboardpgtest@30b7c004]" name="setup" is-config="true" duration-ms="20342" started-at="2023-03-06T16:15:40Z" finished-at="2023-03-06T16:16:01Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Dashboardpgtest@27ae2fd0]" name="setup" is-config="true" duration-ms="14579" started-at="2023-03-06T17:48:51Z" finished-at="2023-03-06T17:49:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Dashboardpgtest@30b7c004]" name="test01" duration-ms="28" started-at="2023-03-06T16:16:01Z" finished-at="2023-03-06T16:16:01Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginTest@29176cc1]" name="setup" is-config="true" duration-ms="12396" started-at="2023-03-06T17:49:06Z" finished-at="2023-03-06T17:49:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Userpagetestcase@2f177a4b]" name="setup" is-config="true" duration-ms="14934" started-at="2023-03-06T17:49:18Z" finished-at="2023-03-06T17:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Dashboardpgtest@27ae2fd0]" name="test01" duration-ms="124" started-at="2023-03-06T17:49:35Z" finished-at="2023-03-06T17:49:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
       </class> <!-- com.tests.Dashboardpgtest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="com.tests.LoginTest">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.LoginTest@29176cc1]" name="test01" duration-ms="36" started-at="2023-03-06T17:49:35Z" finished-at="2023-03-06T17:49:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- com.tests.LoginTest -->
+      <class name="com.tests.Userpagetestcase">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Userpagetestcase@2f177a4b]" name="test01" duration-ms="35" started-at="2023-03-06T17:49:35Z" finished-at="2023-03-06T17:49:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- com.tests.Userpagetestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

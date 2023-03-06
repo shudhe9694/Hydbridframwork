@@ -6,7 +6,9 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.tests.Dashboardpgtest"/>
       <class name="com.tests.LoginTest"/>
+      <class name="com.tests.Userpagetestcase"/>
     </classes>
-  </test> 
-</suite>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
