@@ -7,23 +7,45 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Dashboardpage {
 
-	public WebDriver driver;
+	WebDriver driver;
+	@FindBy(id="email")
+	public WebElement username;
+	
+	@FindBy(id="password")
+	public WebElement password;
+	
+    @FindBy(xpath="//button")
+    public WebElement loginBtn;
 	@FindBy(xpath="//b[text()='Java By Kiran']")
-	 WebElement header;
+	 public WebElement header;
 	
 	@FindBy(xpath="//span[text()='Users']")
-	 WebElement userBtn;
+	public  WebElement Userbtn;
 	
 	
 	public Dashboardpage(WebDriver driver) {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 	}
-	public Userpage clickuser() {
-		userBtn.click();
+
+	  public Dashboardpage navigatedashboardpage(WebDriver driver) {
+	    	username.sendKeys("kiran@gmail.com");
+	    	password.sendKeys("123456");
+	    	loginBtn.click();
+	    	return new Dashboardpage(driver);
+	    }
+	    
+	public boolean Dashboardpgtitle() {
+		String act=driver.getTitle();
+		String expe="JavaByKiran | Dashboard";
+		if(act.equals(expe)) {
+			return true;
+		}
+		return false;
+	}
+	public Userpage naviagateUserpage(WebDriver driver) {
+		Userbtn.click();
 		return new Userpage(driver);
 	}
-	public String getheader() {
-		return header.getText();
-	}
 }
+

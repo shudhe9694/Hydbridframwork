@@ -8,6 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+import com.pages.Loginpage;
 import com.utils.PropertyUtils;
 public class BaseClass {
 
@@ -33,9 +34,6 @@ public class BaseClass {
 			driver=new FirefoxDriver();
 	}
 		driver.manage().window().maximize();
-		
-		
-		
 		driver.get(PropertyUtils.readProperty("url"));
 	}
 	public void reportInit() {
@@ -43,6 +41,11 @@ public class BaseClass {
 		String path=System.getProperty("user.dir")+"/target/ExtentReport.html";
 		spark=new ExtentSparkReporter(path);
 		report.attachReporter(spark);
+	}
+	public Loginpage loadloginpage() {
+		Loginpage lp =new Loginpage(driver);
+		return lp;
+	
 	}
 	
 }

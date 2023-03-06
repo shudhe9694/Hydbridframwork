@@ -5,10 +5,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.base.BaseClass;
+public class Loginpage {
 
-public class Loginpage extends BaseClass {
-
+	WebDriver driver;
 	
 	@FindBy(id="email")
 	public WebElement username;
@@ -21,17 +20,13 @@ public class Loginpage extends BaseClass {
    
     public Loginpage(WebDriver driver) {
     	this.driver=driver;
-    	PageFactory.initElements(driver, this);
+    PageFactory.initElements(driver, this);
     }
-    public void loginToapplication(String usnm,String pass) {
-        username.sendKeys(usnm);
-        password.sendKeys(pass);
-        loginBtn.click();
-    }
-    public Dashboardpage validLoginpage() {
+    public Dashboardpage navigatedashboardpage(WebDriver driver) {
     	username.sendKeys("kiran@gmail.com");
     	password.sendKeys("123456");
     	loginBtn.click();
     	return new Dashboardpage(driver);
     }
+    
 }
