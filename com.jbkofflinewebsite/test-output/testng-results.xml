@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="34" passed="33">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="826411" started-at="2023-02-17T18:14:42 IST" finished-at="2023-02-17T18:28:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="826411" started-at="2023-02-17T18:14:42 IST" finished-at="2023-02-17T18:28:28 IST">
+      <class name="com.jbk.test.JBKtestcase5">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="beforemethod" is-config="true" duration-ms="13039" started-at="2023-02-17T18:16:12 IST" finished-at="2023-02-17T18:16:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="headerboxtitlecheck()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="headerboxtitlecheck" duration-ms="180" started-at="2023-02-17T18:16:25 IST" finished-at="2023-02-17T18:16:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerboxtitlecheck -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="beforemethod" is-config="true" duration-ms="12507" started-at="2023-02-17T18:16:26 IST" finished-at="2023-02-17T18:16:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="placementlabeltitlecheck()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="placementlabeltitlecheck" duration-ms="916" started-at="2023-02-17T18:16:38 IST" finished-at="2023-02-17T18:16:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placementlabeltitlecheck -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="beforemethod" is-config="true" duration-ms="21188" started-at="2023-02-17T18:16:39 IST" finished-at="2023-02-17T18:17:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="schedulelinklabeltitlecheck()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="schedulelinklabeltitlecheck" duration-ms="13083" started-at="2023-02-17T18:17:00 IST" finished-at="2023-02-17T18:17:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- schedulelinklabeltitlecheck -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="beforemethod" is-config="true" duration-ms="24655" started-at="2023-02-17T18:17:13 IST" finished-at="2023-02-17T18:17:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tablenamecheck()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="tablenamecheck" duration-ms="757" started-at="2023-02-17T18:17:38 IST" finished-at="2023-02-17T18:17:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tablenamecheck -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="beforemethod" is-config="true" duration-ms="22068" started-at="2023-02-17T18:17:39 IST" finished-at="2023-02-17T18:18:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="titlecheck()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="titlecheck" duration-ms="1899" started-at="2023-02-17T18:18:01 IST" finished-at="2023-02-17T18:18:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecheck -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="beforemethod" is-config="true" duration-ms="32078" started-at="2023-02-17T18:18:03 IST" finished-at="2023-02-17T18:18:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="videolecturelabeltitle()[pri:0, instance:com.jbk.test.JBKtestcase5@12cdcf4]" name="videolecturelabeltitle" duration-ms="145568" started-at="2023-02-17T18:18:35 IST" finished-at="2023-02-17T18:21:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- videolecturelabeltitle -->
+      </class> <!-- com.jbk.test.JBKtestcase5 -->
+      <class name="com.jbk.test.JBKtestcase6">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="beforemethod" is-config="true" duration-ms="39702" started-at="2023-02-17T18:21:00 IST" finished-at="2023-02-17T18:21:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="test01" duration-ms="626" started-at="2023-02-17T18:21:40 IST" finished-at="2023-02-17T18:21:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="aftermethod" is-config="true" duration-ms="60772" started-at="2023-02-17T18:21:41 IST" finished-at="2023-02-17T18:22:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="beforemethod" is-config="true" duration-ms="61177" started-at="2023-02-17T18:22:41 IST" finished-at="2023-02-17T18:23:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="FAIL" signature="test02()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="test02" duration-ms="1505" started-at="2023-02-17T18:23:43 IST" finished-at="2023-02-17T18:23:44 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.jbk.test.JBKtestcase6.test02(JBKtestcase6.java:37)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="aftermethod" is-config="true" duration-ms="15839" started-at="2023-02-17T18:23:44 IST" finished-at="2023-02-17T18:24:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="beforemethod" is-config="true" duration-ms="15418" started-at="2023-02-17T18:24:00 IST" finished-at="2023-02-17T18:24:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test03()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="test03" duration-ms="824" started-at="2023-02-17T18:24:16 IST" finished-at="2023-02-17T18:24:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="aftermethod" is-config="true" duration-ms="736" started-at="2023-02-17T18:24:16 IST" finished-at="2023-02-17T18:24:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="beforemethod" is-config="true" duration-ms="16938" started-at="2023-02-17T18:24:17 IST" finished-at="2023-02-17T18:24:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test04()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="test04" duration-ms="273" started-at="2023-02-17T18:24:34 IST" finished-at="2023-02-17T18:24:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase6@5bcea91b]" name="aftermethod" is-config="true" duration-ms="676" started-at="2023-02-17T18:24:34 IST" finished-at="2023-02-17T18:24:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.jbk.test.JBKtestcase6 -->
+      <class name="com.jbk.test.JBKtestcases2">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="beforemethod" is-config="true" duration-ms="31170" started-at="2023-02-17T18:14:44 IST" finished-at="2023-02-17T18:15:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Userpagetitle()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="Userpagetitle" duration-ms="521" started-at="2023-02-17T18:15:15 IST" finished-at="2023-02-17T18:15:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Userpagetitle -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="aftermethod" is-config="true" duration-ms="524" started-at="2023-02-17T18:15:15 IST" finished-at="2023-02-17T18:15:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="beforemethod" is-config="true" duration-ms="12914" started-at="2023-02-17T18:15:16 IST" finished-at="2023-02-17T18:15:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="contentcheck()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="contentcheck" duration-ms="707" started-at="2023-02-17T18:15:29 IST" finished-at="2023-02-17T18:15:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contentcheck -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="aftermethod" is-config="true" duration-ms="638" started-at="2023-02-17T18:15:30 IST" finished-at="2023-02-17T18:15:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="beforemethod" is-config="true" duration-ms="10310" started-at="2023-02-17T18:15:30 IST" finished-at="2023-02-17T18:15:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="headermatch()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="headermatch" duration-ms="210" started-at="2023-02-17T18:15:41 IST" finished-at="2023-02-17T18:15:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headermatch -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="aftermethod" is-config="true" duration-ms="661" started-at="2023-02-17T18:15:41 IST" finished-at="2023-02-17T18:15:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="beforemethod" is-config="true" duration-ms="10355" started-at="2023-02-17T18:15:41 IST" finished-at="2023-02-17T18:15:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="logoutclickpagetitle()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="logoutclickpagetitle" duration-ms="288" started-at="2023-02-17T18:15:52 IST" finished-at="2023-02-17T18:15:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutclickpagetitle -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="aftermethod" is-config="true" duration-ms="140" started-at="2023-02-17T18:15:52 IST" finished-at="2023-02-17T18:15:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="beforemethod" is-config="true" duration-ms="7201" started-at="2023-02-17T18:15:52 IST" finished-at="2023-02-17T18:15:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="morelinkopen()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="morelinkopen" duration-ms="268" started-at="2023-02-17T18:15:59 IST" finished-at="2023-02-17T18:16:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- morelinkopen -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="aftermethod" is-config="true" duration-ms="87" started-at="2023-02-17T18:16:00 IST" finished-at="2023-02-17T18:16:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="beforemethod" is-config="true" duration-ms="10734" started-at="2023-02-17T18:16:00 IST" finished-at="2023-02-17T18:16:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="subcontentcheck()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="subcontentcheck" duration-ms="644" started-at="2023-02-17T18:16:11 IST" finished-at="2023-02-17T18:16:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subcontentcheck -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases2@7d70d1b1]" name="aftermethod" is-config="true" duration-ms="1207" started-at="2023-02-17T18:16:11 IST" finished-at="2023-02-17T18:16:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.jbk.test.JBKtestcases2 -->
+      <class name="com.jbk.test.JBKtestcases">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="beforemethod" is-config="true" duration-ms="11035" started-at="2023-02-17T18:24:35 IST" finished-at="2023-02-17T18:24:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="JBKlogo()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="JBKlogo" duration-ms="405" started-at="2023-02-17T18:24:46 IST" finished-at="2023-02-17T18:24:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JBKlogo -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="aftermethod" is-config="true" duration-ms="767" started-at="2023-02-17T18:24:46 IST" finished-at="2023-02-17T18:24:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="beforemethod" is-config="true" duration-ms="8339" started-at="2023-02-17T18:24:47 IST" finished-at="2023-02-17T18:24:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Registerdlink()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="Registerdlink" duration-ms="216" started-at="2023-02-17T18:24:56 IST" finished-at="2023-02-17T18:24:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registerdlink -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="aftermethod" is-config="true" duration-ms="1350" started-at="2023-02-17T18:24:56 IST" finished-at="2023-02-17T18:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="beforemethod" is-config="true" duration-ms="14566" started-at="2023-02-17T18:24:57 IST" finished-at="2023-02-17T18:25:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="emailerrormsg()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="emailerrormsg" duration-ms="3029" started-at="2023-02-17T18:25:12 IST" finished-at="2023-02-17T18:25:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailerrormsg -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="aftermethod" is-config="true" duration-ms="1371" started-at="2023-02-17T18:25:15 IST" finished-at="2023-02-17T18:25:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="beforemethod" is-config="true" duration-ms="10462" started-at="2023-02-17T18:25:16 IST" finished-at="2023-02-17T18:25:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="invalidcredentials()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="invalidcredentials" duration-ms="1607" started-at="2023-02-17T18:25:27 IST" finished-at="2023-02-17T18:25:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidcredentials -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="aftermethod" is-config="true" duration-ms="634" started-at="2023-02-17T18:25:28 IST" finished-at="2023-02-17T18:25:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="beforemethod" is-config="true" duration-ms="7160" started-at="2023-02-17T18:25:29 IST" finished-at="2023-02-17T18:25:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="passworderrormsg()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="passworderrormsg" duration-ms="471" started-at="2023-02-17T18:25:36 IST" finished-at="2023-02-17T18:25:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passworderrormsg -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="aftermethod" is-config="true" duration-ms="200" started-at="2023-02-17T18:25:36 IST" finished-at="2023-02-17T18:25:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="beforemethod" is-config="true" duration-ms="5582" started-at="2023-02-17T18:25:37 IST" finished-at="2023-02-17T18:25:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="validcredential()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="validcredential" duration-ms="3669" started-at="2023-02-17T18:25:42 IST" finished-at="2023-02-17T18:25:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validcredential -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcases@5f3a4b84]" name="aftermethod" is-config="true" duration-ms="601" started-at="2023-02-17T18:25:46 IST" finished-at="2023-02-17T18:25:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.jbk.test.JBKtestcases -->
+      <class name="com.jbk.test.JBKtestcase3">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="beforemethod" is-config="true" duration-ms="14191" started-at="2023-02-17T18:25:46 IST" finished-at="2023-02-17T18:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="addusertitle()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="addusertitle" duration-ms="1495" started-at="2023-02-17T18:26:01 IST" finished-at="2023-02-17T18:26:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addusertitle -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="aftermethod" is-config="true" duration-ms="604" started-at="2023-02-17T18:26:02 IST" finished-at="2023-02-17T18:26:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="beforemethod" is-config="true" duration-ms="12566" started-at="2023-02-17T18:26:03 IST" finished-at="2023-02-17T18:26:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="deletelabel()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="deletelabel" duration-ms="874" started-at="2023-02-17T18:26:15 IST" finished-at="2023-02-17T18:26:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletelabel -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="aftermethod" is-config="true" duration-ms="892" started-at="2023-02-17T18:26:16 IST" finished-at="2023-02-17T18:26:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="beforemethod" is-config="true" duration-ms="9475" started-at="2023-02-17T18:26:17 IST" finished-at="2023-02-17T18:26:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="invalidcreduser()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="invalidcreduser" duration-ms="78" started-at="2023-02-17T18:26:27 IST" finished-at="2023-02-17T18:26:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidcreduser -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="aftermethod" is-config="true" duration-ms="177" started-at="2023-02-17T18:26:27 IST" finished-at="2023-02-17T18:26:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="beforemethod" is-config="true" duration-ms="12729" started-at="2023-02-17T18:26:27 IST" finished-at="2023-02-17T18:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="invalidonlymobi()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="invalidonlymobi" duration-ms="139" started-at="2023-02-17T18:26:40 IST" finished-at="2023-02-17T18:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidonlymobi -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="aftermethod" is-config="true" duration-ms="585" started-at="2023-02-17T18:26:40 IST" finished-at="2023-02-17T18:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="beforemethod" is-config="true" duration-ms="10928" started-at="2023-02-17T18:26:40 IST" finished-at="2023-02-17T18:26:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tabelheading()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="tabelheading" duration-ms="214" started-at="2023-02-17T18:26:51 IST" finished-at="2023-02-17T18:26:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabelheading -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="aftermethod" is-config="true" duration-ms="250" started-at="2023-02-17T18:26:51 IST" finished-at="2023-02-17T18:26:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="beforemethod" is-config="true" duration-ms="11049" started-at="2023-02-17T18:26:52 IST" finished-at="2023-02-17T18:27:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="titlecheck()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="titlecheck" duration-ms="196" started-at="2023-02-17T18:27:03 IST" finished-at="2023-02-17T18:27:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecheck -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase3@27f723]" name="aftermethod" is-config="true" duration-ms="725" started-at="2023-02-17T18:27:03 IST" finished-at="2023-02-17T18:27:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.jbk.test.JBKtestcase3 -->
+      <class name="com.jbk.test.JBKtestcase4">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="beforemethod" is-config="true" duration-ms="12631" started-at="2023-02-17T18:27:04 IST" finished-at="2023-02-17T18:27:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Weekoperator()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="Weekoperator" duration-ms="7" started-at="2023-02-17T18:27:17 IST" finished-at="2023-02-17T18:27:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Weekoperator -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="aftermethod" is-config="true" duration-ms="495" started-at="2023-02-17T18:27:17 IST" finished-at="2023-02-17T18:27:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="beforemethod" is-config="true" duration-ms="15258" started-at="2023-02-17T18:27:17 IST" finished-at="2023-02-17T18:27:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Whatsappuser()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="Whatsappuser" duration-ms="190" started-at="2023-02-17T18:27:32 IST" finished-at="2023-02-17T18:27:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Whatsappuser -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="aftermethod" is-config="true" duration-ms="821" started-at="2023-02-17T18:27:32 IST" finished-at="2023-02-17T18:27:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="beforemethod" is-config="true" duration-ms="18061" started-at="2023-02-17T18:27:33 IST" finished-at="2023-02-17T18:27:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="checktablename()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="checktablename" duration-ms="630" started-at="2023-02-17T18:27:51 IST" finished-at="2023-02-17T18:27:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktablename -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="aftermethod" is-config="true" duration-ms="720" started-at="2023-02-17T18:27:52 IST" finished-at="2023-02-17T18:27:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="beforemethod" is-config="true" duration-ms="11359" started-at="2023-02-17T18:27:53 IST" finished-at="2023-02-17T18:28:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="headercheck()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="headercheck" duration-ms="53" started-at="2023-02-17T18:28:04 IST" finished-at="2023-02-17T18:28:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headercheck -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="aftermethod" is-config="true" duration-ms="596" started-at="2023-02-17T18:28:04 IST" finished-at="2023-02-17T18:28:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="beforemethod" is-config="true" duration-ms="11883" started-at="2023-02-17T18:28:05 IST" finished-at="2023-02-17T18:28:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="onlytechnicaloperator()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="onlytechnicaloperator" duration-ms="296" started-at="2023-02-17T18:28:17 IST" finished-at="2023-02-17T18:28:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onlytechnicaloperator -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="aftermethod" is-config="true" duration-ms="647" started-at="2023-02-17T18:28:17 IST" finished-at="2023-02-17T18:28:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="beforemethod" is-config="true" duration-ms="10030" started-at="2023-02-17T18:28:18 IST" finished-at="2023-02-17T18:28:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="titlematch()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="titlematch" duration-ms="308" started-at="2023-02-17T18:28:28 IST" finished-at="2023-02-17T18:28:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlematch -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.jbk.test.JBKtestcase4@670b40af]" name="aftermethod" is-config="true" duration-ms="429" started-at="2023-02-17T18:28:28 IST" finished-at="2023-02-17T18:28:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.jbk.test.JBKtestcase4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
