@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="1847" started-at="2023-03-06T17:49:33Z" finished-at="2023-03-06T17:49:35Z">
+  <suite name="Suite" duration-ms="2635" started-at="2023-03-07T12:25:10 IST" finished-at="2023-03-07T12:25:12 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="1847" started-at="2023-03-06T17:49:33Z" finished-at="2023-03-06T17:49:35Z">
+    <test name="Test" duration-ms="2635" started-at="2023-03-07T12:25:10 IST" finished-at="2023-03-07T12:25:12 IST">
       <class name="com.tests.Dashboardpgtest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Dashboardpgtest@27ae2fd0]" name="setup" is-config="true" duration-ms="14579" started-at="2023-03-06T17:48:51Z" finished-at="2023-03-06T17:49:06Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Dashboardpgtest@4fcd19b3]" name="setup" is-config="true" duration-ms="35434" started-at="2023-03-07T12:24:13 IST" finished-at="2023-03-07T12:24:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginTest@29176cc1]" name="setup" is-config="true" duration-ms="12396" started-at="2023-03-06T17:49:06Z" finished-at="2023-03-06T17:49:18Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Userpagetestcase@2f177a4b]" name="setup" is-config="true" duration-ms="14934" started-at="2023-03-06T17:49:18Z" finished-at="2023-03-06T17:49:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Dashboardpgtest@27ae2fd0]" name="test01" duration-ms="124" started-at="2023-03-06T17:49:35Z" finished-at="2023-03-06T17:49:35Z">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Dashboardpgtest@4fcd19b3]" name="test01" duration-ms="80" started-at="2023-03-07T12:25:12 IST" finished-at="2023-03-07T12:25:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
       </class> <!-- com.tests.Dashboardpgtest -->
       <class name="com.tests.LoginTest">
-        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.LoginTest@29176cc1]" name="test01" duration-ms="36" started-at="2023-03-06T17:49:35Z" finished-at="2023-03-06T17:49:35Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginTest@5fdba6f9]" name="setup" is-config="true" duration-ms="7005" started-at="2023-03-07T12:24:49 IST" finished-at="2023-03-07T12:24:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.LoginTest@5fdba6f9]" name="test01" duration-ms="15" started-at="2023-03-07T12:25:12 IST" finished-at="2023-03-07T12:25:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
       </class> <!-- com.tests.LoginTest -->
       <class name="com.tests.Userpagetestcase">
-        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Userpagetestcase@2f177a4b]" name="test01" duration-ms="35" started-at="2023-03-06T17:49:35Z" finished-at="2023-03-06T17:49:35Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Userpagetestcase@10d59286]" name="setup" is-config="true" duration-ms="13869" started-at="2023-03-07T12:24:56 IST" finished-at="2023-03-07T12:25:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Userpagetestcase@10d59286]" name="test01" duration-ms="16" started-at="2023-03-07T12:25:12 IST" finished-at="2023-03-07T12:25:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
