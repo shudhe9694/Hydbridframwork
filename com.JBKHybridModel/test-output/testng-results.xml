@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="585" started-at="2023-03-07T19:32:38 IST" finished-at="2023-03-07T19:32:39 IST">
+  <suite name="Suite" duration-ms="323" started-at="2023-03-07T20:06:58 IST" finished-at="2023-03-07T20:06:59 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="585" started-at="2023-03-07T19:32:38 IST" finished-at="2023-03-07T19:32:39 IST">
+    <test name="Test" duration-ms="323" started-at="2023-03-07T20:06:58 IST" finished-at="2023-03-07T20:06:59 IST">
       <class name="com.tests.Dashboardpgtest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Dashboardpgtest@df27fae]" name="setup" is-config="true" duration-ms="11358" started-at="2023-03-07T19:32:13 IST" finished-at="2023-03-07T19:32:24 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Dashboardpgtest@4c762604]" name="setup" is-config="true" duration-ms="29416" started-at="2023-03-07T20:05:57 IST" finished-at="2023-03-07T20:06:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Dashboardpgtest@df27fae]" name="test01" duration-ms="27" started-at="2023-03-07T19:32:39 IST" finished-at="2023-03-07T19:32:39 IST">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Dashboardpgtest@4c762604]" name="test01" duration-ms="83" started-at="2023-03-07T20:06:58 IST" finished-at="2023-03-07T20:06:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
       </class> <!-- com.tests.Dashboardpgtest -->
       <class name="com.tests.LoginTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginTest@5c18298f]" name="setup" is-config="true" duration-ms="6228" started-at="2023-03-07T19:32:24 IST" finished-at="2023-03-07T19:32:30 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginTest@2f0a87b3]" name="setup" is-config="true" duration-ms="15221" started-at="2023-03-07T20:06:27 IST" finished-at="2023-03-07T20:06:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.LoginTest@5c18298f]" name="test01" duration-ms="9" started-at="2023-03-07T19:32:39 IST" finished-at="2023-03-07T19:32:39 IST">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.LoginTest@2f0a87b3]" name="test01" duration-ms="13" started-at="2023-03-07T20:06:58 IST" finished-at="2023-03-07T20:06:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
       </class> <!-- com.tests.LoginTest -->
       <class name="com.tests.Userpagetestcase">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Userpagetestcase@31f924f5]" name="setup" is-config="true" duration-ms="8008" started-at="2023-03-07T19:32:30 IST" finished-at="2023-03-07T19:32:38 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Userpagetestcase@319b92f3]" name="setup" is-config="true" duration-ms="16053" started-at="2023-03-07T20:06:42 IST" finished-at="2023-03-07T20:06:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Userpagetestcase@31f924f5]" name="test01" duration-ms="10" started-at="2023-03-07T19:32:39 IST" finished-at="2023-03-07T19:32:39 IST">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.tests.Userpagetestcase@319b92f3]" name="test01" duration-ms="13" started-at="2023-03-07T20:06:58 IST" finished-at="2023-03-07T20:06:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->

@@ -226,3 +226,15 @@
 2023-03-07 19:32:40,275 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
 2023-03-07 19:32:40,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
 2023-03-07 19:32:40,277 DEBUG [main] cache:45 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/User/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+2023-03-07 20:05:58,180  INFO [main] BaseClass:24 - reading property file browser name
+2023-03-07 20:05:58,184  INFO [main] BaseClass:26 - initializing chrome browser
+2023-03-07 20:06:27,404  INFO [main] BaseClass:24 - reading property file browser name
+2023-03-07 20:06:27,404  INFO [main] BaseClass:26 - initializing chrome browser
+2023-03-07 20:06:42,625  INFO [main] BaseClass:24 - reading property file browser name
+2023-03-07 20:06:42,625  INFO [main] BaseClass:26 - initializing chrome browser
+2023-03-07 20:09:52,306  INFO [main] BaseClass:24 - reading property file browser name
+2023-03-07 20:09:53,454  INFO [main] BaseClass:26 - initializing chrome browser
+2023-03-07 20:10:39,366  INFO [main] BaseClass:24 - reading property file browser name
+2023-03-07 20:10:39,367  INFO [main] BaseClass:26 - initializing chrome browser
+2023-03-07 20:10:45,373  INFO [main] BaseClass:24 - reading property file browser name
+2023-03-07 20:10:45,374  INFO [main] BaseClass:26 - initializing chrome browser
