@@ -2,14 +2,12 @@ package com.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeSuite;
-import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.base.BaseClass;
-import com.listeners.MyListener;
 import com.pages.Dashboardpage;
 
-@Listeners(MyListener.class)
+
 public class Dashboardpgtest extends BaseClass{
 
 
